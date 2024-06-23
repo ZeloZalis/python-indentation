@@ -3,7 +3,7 @@ import sys, os
 from datetime import date
 
 # Class and functions are writed like this:
-Class FileChecker():
+class FileChecker():
   # There is two ways for functions:
   def pdf_check(self):
     pass
